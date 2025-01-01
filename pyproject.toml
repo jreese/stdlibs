@@ -25,7 +25,7 @@ dev = [
     "attribution==1.8.0",
     "build>=1",
     "black==24.10.0",
-    "coverage==7.6.8",
+    "coverage==7.6.10",
     "fissix==24.4.24",
     "flake8==7.1.1",
     "flit==3.10.1",
